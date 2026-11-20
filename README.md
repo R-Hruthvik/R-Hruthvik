@@ -33,11 +33,11 @@ A voice-driven agent with a visual presence. I’m exploring an assistant that l
 
 AI-assisted summaries of public GitHub activity.
 
-- **meridian-llmops** — Documented baseline harness command in meridian-llmops. [commit · 2026-10-31](https://github.com/R-Hruthvik/meridian-llmops/commit/8bca80e7aed7c7cfa7fad0266cf5c36ff6f2c593)
-- **LAZYTYPE** — Retried pystray tray docking until icon accepted in LAZYTYPE. [commit · 2026-10-31](https://github.com/R-Hruthvik/LAZYTYPE/commit/2193b635ec5ae1063b242eeb6332449e6f6260f4)
-- **fine-print-fighter** — Gated cancellation conflicts on exact event-specific evidence in fine-print-fighter. [commit · 2026-10-28](https://github.com/R-Hruthvik/fine-print-fighter/commit/132c5d79c4dca3da797a99de7f86964ae8007d7c)
+- **meridian-llmops** — Restored CI quality gate after ruff and stream contract drift. [commit · 2026-11-15](https://github.com/R-Hruthvik/meridian-llmops/commit/d9458a5371c5bb143403575b55b1b3d9bfc73116)
+- **meridian-llmops** — Implemented frontend candidates 4-9 including palette, view-switch, group-dim hover, focus offset, text-wrap, and font stack changes. [commit · 2026-11-14](https://github.com/R-Hruthvik/meridian-llmops/commit/ec89f183da95e999637f2fd4add60051584eadf7)
+- **meridian-llmops** — Fixed file uploads to use the field name expected by the API. [commit · 2026-11-14](https://github.com/R-Hruthvik/meridian-llmops/commit/d888fc865e923018dc87f608ca8fad3f0e88ba43)
 
-<!-- WORKBENCH-DIGEST:3c92d6e3c0acf9675398445a9eb1c3c6a57af4e49308eee68834f7102c2ae87d -->
+<!-- WORKBENCH-DIGEST:ad63f2b8d7b815df23cfec565e6de66157982a6f9fef815d8a302e6d6a00329f -->
 <!-- WORKBENCH:END -->
 
 ---
